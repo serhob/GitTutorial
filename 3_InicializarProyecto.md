@@ -3,17 +3,22 @@
 #### Crear carpeta principal del proyecto
 
 Primero que nada hay que crear la carpeta del proyecto
+
 `
 mkdir MiProyectoGit
 `
+
 `
 cd MiProyectoGit
 `
+
 #### Inicializar git
 El sigiente comado inicializa el proyecto para que pueda ser gestionado con git
+
 `
 git init
 `
+
 > Este comando creará una carpeta oculta llamada **.git** dentro de nuestra carpeta principal de nuestro proyecto.
 Si queremos ver la carpeta oculta en la linea de comandos lo podemos hacer con `ls -a`
 

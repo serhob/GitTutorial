@@ -14,5 +14,7 @@ Cuando se pasan los archivos de stage a commit, estos dejan de estar en la etapa
 
 #### Server
 
-Para subir los cambios al servidor o la nuve donde se encuentra nuesto proyecto se hace mediante el comando `git push`
+Para subir los cambios al servidor o la nuve donde se encuentra nuesto proyecto se hace mediante el comando
+
+`git push`
 

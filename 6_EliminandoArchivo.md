@@ -11,9 +11,11 @@ git add Archivo1.txt
 `
 
 De igual manera para comprometer el cambio de la eliminacion a nuestro repositorio se usa:
+
 `
 git commit -m "Se elimina el archivo Archivo1.txt"
 `
+
 Y con `git status` comprobamos que ya no hay nada pendiente.
 
 #### Eliminar y agregar a stage

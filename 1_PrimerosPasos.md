@@ -13,8 +13,10 @@ Se recomienda usar el cmd de git BASH para trabajar de manera mas comoda con los
 ## Verificar la instalaccion
 
 Para verificar que tenemos instalado git
+
 `
 git --version
 `
+
 Este comando nos permite ver que version de git tenemos instalada.
 
