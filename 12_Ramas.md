@@ -17,3 +17,14 @@ Ahora para hacer un nuevo branch a patir de la rama en la que estamos lo haremos
 
 Aqui el nombre del branch seria el `ramab` el branch puede ser el numero de ticket, Issue, BackLog, Freature para identificar mejor este branch.
 
+Este comando ademas de crearnos una rama nueva llamada `ramab` tambien nos posiciona en esa rama.
+
+#### Cambiar de rama
+
+para cambiar de rama lo podemos hacer con:
+
+`
+git checkout master
+`
+
+En este caso nos cambiariamos a la rama master nuevamante.
