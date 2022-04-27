@@ -1,12 +1,12 @@
 ## Git Log
 
-Para ver el log de todos los comit que se han hecho en el repositorio donde estemos situados lo podemos hacer mediante el comando:
+Para ver el log de todos los commit que se han hecho en el repositorio donde estemos situados lo podemos hacer mediante el comando:
 
 `
 git log
 `
 
-Este nos mostrara la informacion referente de cada commit como el ID del commit, la rama en la que esta, el nombre del autor del commit seguido de su email, la fecha y La descripcion que le pusimos al commit:
+Este nos mostrara la información referente de cada commit como el ID del commit, la rama en la que esta, el nombre del autor del commit seguido de su email, la fecha y La descripción que le pusimos al commit:
 
 
     commit 818d0135af2c42a3a7dba0b2115c7289b009d587 (HEAD -> master)
@@ -15,7 +15,7 @@ Este nos mostrara la informacion referente de cada commit como el ID del commit,
 
     Agregando archivos
 
-Tambien hay una forma mas reducida de ver este logo y es con la instruccion:
+También hay una forma mas reducida de ver este logo y es con la instrucción:
 
 `
 git log --oneline
