@@ -26,6 +26,18 @@ git add Archivo1.txt
 
 Una vex agregados los archivos al repositorio si le volvemos a dar `git status` nos mostrara el archivo en verde que estan listos para ser comprometidos en este punto estan en la estapa de **Stage**
 
+#### Commit de los archivos
+
+Para comprometer los archivo en el repositorio utilizamos el comando:
+`
+git commit -m "Commit inicial"
+`
+> Al utilizar `-m` nos permite escribir en ese momento una descripcion de lo que se esta incluyendo en ese commit dentro de las `""`
+
+Tambien podemos utilizar simplemente
+`git commit`
+Este comando nos abrira el editor de texto configurado para que nosotros escribamos el texto corresondiente a la descripcion del commit
+
 
 
 
