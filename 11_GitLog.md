@@ -20,3 +20,12 @@ Tambien hay una forma mas reducida de ver este logo y es con la instruccion:
 `
 git log --oneline
 `
+
+Este nos mostrara el historial con un pequeño hash que funciona como identificador del commit
+
+    818d013 (HEAD -> master) Agregando archivos.
+    419f39d Segundo commit con cambios.
+    31b57b1 Primeros archivos agregados.
+
+> Al igual que con la pantalla de diff para salir de la la pantalla de log lo haremos con la letra `q`
+
