@@ -38,6 +38,8 @@ Tambien podemos utilizar simplemente
 `git commit`
 Este comando nos abrira el editor de texto configurado para que nosotros escribamos el texto corresondiente a la descripcion del commit
 
+Si volvemos a ejecutar `git status` nos dira que ya no hay nada para commit
+
 
 
 
