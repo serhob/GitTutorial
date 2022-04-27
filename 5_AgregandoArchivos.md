@@ -1,6 +1,6 @@
 ## Agregando archivos al repositorio
 
-#### Agregar arcivos al proyecto
+#### Agregar archivos al proyecto
 
 Agregamos nuestros primeros archivos al proyecto. 
 Archivo1.txt
@@ -23,11 +23,11 @@ Para seleccionar los archivos que deseamos se agreguen al repositorio se hace co
 git add Archivo1.txt
 `
 
-> `git add` puede agregar mas de un archivo a la vez y fuanciona agreando los de mas nombres de archivos separados por un espacio, tambien se puede usar expresiones reculares como por ejemplo `*.txt` para todos los archivos con extencio ".txt".
+> `git add` puede agregar mas de un archivo a la vez y funciona agregando los de mas nombres de archivos separados por un espacio, también se puede usar expresiones reculares como por ejemplo `*.txt` para todos los archivos con extensión ".txt".
 
-> Podriamos agregar todos los archivos que aparecen en el listado como pendientes mediante el comando "`git add .`" pero esto es considerado una mala practica ya que podriamos olvidar que movimos algun archivo pero que no queriamos subir al repositorio y se podria ir tambien.txt
+> Podríamos agregar todos los archivos que aparecen en el listado como pendientes mediante el comando "`git add .`" pero esto es considerado una mala practica ya que podríamos olvidar que movimos algún archivo pero que no queríamos subir al repositorio y se podría ir también.
 
-Una vex agregados los archivos al repositorio si le volvemos a dar `git status` nos mostrara el archivo en verde que estan listos para ser comprometidos en este punto estan en la estapa de **Stage**
+Una vex agregados los archivos al repositorio si le volvemos a dar `git status` nos mostrara el archivo en verde que están listos para ser comprometidos en este punto están en la etapa de **Stage**
 
 #### Commit de los archivos
 
@@ -37,15 +37,15 @@ Para comprometer los archivo en el repositorio utilizamos el comando:
 git commit -m "Commit inicial"
 `
 
-> Al utilizar `-m` nos permite escribir en ese momento una descripcion de lo que se esta incluyendo en ese commit dentro de las `""`
+> Al utilizar `-m` nos permite escribir en ese momento una descripción de lo que se esta incluyendo en ese commit dentro de las `""`
 
-Tambien podemos utilizar simplemente
+También podemos utilizar simplemente
 
 `git commit`
 
-Este comando nos abrira el editor de texto configurado para que nosotros escribamos el texto corresondiente a la descripcion del commit
+Este comando nos abrirá el editor de texto configurado para que nosotros escribamos el texto correspondiente a la descripción del commit.
 
-Si volvemos a ejecutar `git status` nos dira que ya no hay nada para commit
+Si volvemos a ejecutar `git status` nos dirá que ya no hay nada para commit.
 
 
 
