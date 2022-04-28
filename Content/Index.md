@@ -1,2 +1,2 @@
-![Desarrollo](./img/Logo.jpg "San Juan Mountains")
+![Empresa](./img/Logo.jpg "Logotipo")
 
