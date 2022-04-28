@@ -1,1 +1,2 @@
-![Desarrollo](/img/logo.jpg "San Juan Mountains")
+![Desarrollo](./img/Logo.jpg "San Juan Mountains")
+
