@@ -30,6 +30,15 @@ git config --global core.editor "code --wait"
 
 > `--wait` es para que la terminal se quede esperando a que cerremos el editor de texto.
 
+#### Default Branch
+
+Configurar la rama por defecto cuando creemos un nuevo proyecto git.
+
+`
+git config --global init.defaultBranch main
+`
+> Por política de github la rama principal debe llamarse **main** y no master.
+
 #### Ver configuración global
 Una vez realizada la configuración global básica podemos comprobar el archivo de configuración con el siguiente comando.
 
